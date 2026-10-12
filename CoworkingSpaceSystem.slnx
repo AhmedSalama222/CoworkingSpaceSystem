@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/Business_Logic_Layer/">
+    <Project Path="CoworkingSpaceSystem.BLL/CoworkingSpaceSystem.BLL.csproj" />
+  </Folder>
+  <Folder Name="/Data_Access_Layer/">
+    <Project Path="CoworkingSpaceSystem.DAL/CoworkingSpaceSystem.DAL.csproj" />
+  </Folder>
+  <Folder Name="/Presentation_Layer/">
+    <Project Path="CoworkingSpaceSystem.Web/CoworkingSpaceSystem.Web.csproj" />
+  </Folder>
+</Solution>

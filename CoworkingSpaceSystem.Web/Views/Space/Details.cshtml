@@ -1,0 +1,59 @@
+﻿@model CoworkingSpaceSystem.BLL.DTOs.SpaceDTOs.SpaceToReturnDto
+
+@{
+    ViewData["Title"] = "تفاصيل القاعة";
+}
+
+<div class="container mt-4">
+    <div class="card shadow">
+        <div class="card-header bg-primary text-white d-flex justify-content-between align-items-center">
+            <h3 class="mb-0">📌 تفاصيل: @Model.Name</h3>
+            <a asp-action="Index" class="btn btn-light btn-sm">العودة للقائمة</a>
+        </div>
+        <div class="card-body">
+            <div class="row">
+                <div class="col-md-5 text-center mb-3 mb-md-0">
+                    @if (!string.IsNullOrEmpty(Model.PictureUrl))
+                    {
+                        <img src="~/images/spaces/@Model.PictureUrl" class="img-fluid rounded shadow-sm" alt="@Model.Name" style="max-height: 350px; width: 100%; object-fit: cover;" />
+                    }
+                    else
+                    {
+                        <img src="https://via.placeholder.com/400x300?text=No+Image" class="img-fluid rounded shadow-sm" alt="No Image" />
+                    }
+                </div>
+                <div class="col-md-7">
+                    <h4>@Model.Name</h4>
+                    <p class="text-muted lead">@Model.Description</p>
+                    <hr />
+                    <div class="row mb-3">
+                        <div class="col-6">
+                            <strong>🏷️ سعر الساعة:</strong>
+                            <p class="fs-5 text-success">@Model.PricePerHour ج.م</p>
+                        </div>
+                        <div class="col-6">
+                            <strong>👥 السعة القصوى:</strong>
+                            <p class="fs-5">@Model.Capacity فرد</p>
+                        </div>
+                    </div>
+                    <div class="mb-4">
+                        <strong>⚡ حالة القاعة:</strong>
+                        @if (Model.IsAvailable)
+                        {
+                            <span class="badge bg-success p-2">متاحة للحجز الحين</span>
+                        }
+                        else
+                        {
+                            <span class="badge bg-danger p-2">غير متاحة / صيانة</span>
+                        }
+                    </div>
+
+                    <div class="d-flex gap-2">
+                        <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-warning"><i class="bi bi-pencil"></i> تعديل القاعة</a>
+                        <a asp-action="Index" class="btn btn-secondary">إلغاء</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

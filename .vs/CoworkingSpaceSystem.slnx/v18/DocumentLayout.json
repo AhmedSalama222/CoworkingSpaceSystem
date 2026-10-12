@@ -1,0 +1,422 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Eng-Moh.Essam_Course\\CoworkingSpaceSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDC5C450-826B-56C4-30BA-535EA3707B8F}|CoworkingSpaceSystem.DAL\\CoworkingSpaceSystem.DAL.csproj|d:\\eng-moh.essam_course\\coworkingspacesystem\\coworkingspacesystem.dal\\coworkingspacesystem.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DDC5C450-826B-56C4-30BA-535EA3707B8F}|CoworkingSpaceSystem.DAL\\CoworkingSpaceSystem.DAL.csproj|solutionrelative:coworkingspacesystem.dal\\coworkingspacesystem.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A948FF3-5993-78A0-B632-9ADD2F044893}|CoworkingSpaceSystem.Web\\CoworkingSpaceSystem.Web.csproj|d:\\eng-moh.essam_course\\coworkingspacesystem\\coworkingspacesystem.web\\controllers\\spacecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A948FF3-5993-78A0-B632-9ADD2F044893}|CoworkingSpaceSystem.Web\\CoworkingSpaceSystem.Web.csproj|solutionrelative:coworkingspacesystem.web\\controllers\\spacecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D484AA-F98C-5549-9BD0-91C524122345}|CoworkingSpaceSystem.BLL\\CoworkingSpaceSystem.BLL.csproj|d:\\eng-moh.essam_course\\coworkingspacesystem\\coworkingspacesystem.bll\\helpers\\documentsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D484AA-F98C-5549-9BD0-91C524122345}|CoworkingSpaceSystem.BLL\\CoworkingSpaceSystem.BLL.csproj|solutionrelative:coworkingspacesystem.bll\\helpers\\documentsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D484AA-F98C-5549-9BD0-91C524122345}|CoworkingSpaceSystem.BLL\\CoworkingSpaceSystem.BLL.csproj|d:\\eng-moh.essam_course\\coworkingspacesystem\\coworkingspacesystem.bll\\helpers\\idocumentsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D484AA-F98C-5549-9BD0-91C524122345}|CoworkingSpaceSystem.BLL\\CoworkingSpaceSystem.BLL.csproj|solutionrelative:coworkingspacesystem.bll\\helpers\\idocumentsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D484AA-F98C-5549-9BD0-91C524122345}|CoworkingSpaceSystem.BLL\\CoworkingSpaceSystem.BLL.csproj|d:\\eng-moh.essam_course\\coworkingspacesystem\\coworkingspacesystem.bll\\services\\implementaions\\spaceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D484AA-F98C-5549-9BD0-91C524122345}|CoworkingSpaceSystem.BLL\\CoworkingSpaceSystem.BLL.csproj|solutionrelative:coworkingspacesystem.bll\\services\\implementaions\\spaceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D484AA-F98C-5549-9BD0-91C524122345}|CoworkingSpaceSystem.BLL\\CoworkingSpaceSystem.BLL.csproj|d:\\eng-moh.essam_course\\coworkingspacesystem\\coworkingspacesystem.bll\\services\\interfaces\\ispaceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D484AA-F98C-5549-9BD0-91C524122345}|CoworkingSpaceSystem.BLL\\CoworkingSpaceSystem.BLL.csproj|solutionrelative:coworkingspacesystem.bll\\services\\interfaces\\ispaceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDC5C450-826B-56C4-30BA-535EA3707B8F}|CoworkingSpaceSystem.DAL\\CoworkingSpaceSystem.DAL.csproj|d:\\eng-moh.essam_course\\coworkingspacesystem\\coworkingspacesystem.dal\\repositories\\implementations\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDC5C450-826B-56C4-30BA-535EA3707B8F}|CoworkingSpaceSystem.DAL\\CoworkingSpaceSystem.DAL.csproj|solutionrelative:coworkingspacesystem.dal\\repositories\\implementations\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDC5C450-826B-56C4-30BA-535EA3707B8F}|CoworkingSpaceSystem.DAL\\CoworkingSpaceSystem.DAL.csproj|d:\\eng-moh.essam_course\\coworkingspacesystem\\coworkingspacesystem.dal\\repositories\\implementations\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDC5C450-826B-56C4-30BA-535EA3707B8F}|CoworkingSpaceSystem.DAL\\CoworkingSpaceSystem.DAL.csproj|solutionrelative:coworkingspacesystem.dal\\repositories\\implementations\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D484AA-F98C-5549-9BD0-91C524122345}|CoworkingSpaceSystem.BLL\\CoworkingSpaceSystem.BLL.csproj|d:\\eng-moh.essam_course\\coworkingspacesystem\\coworkingspacesystem.bll\\dtos\\spacedtos\\spacetoreturndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D484AA-F98C-5549-9BD0-91C524122345}|CoworkingSpaceSystem.BLL\\CoworkingSpaceSystem.BLL.csproj|solutionrelative:coworkingspacesystem.bll\\dtos\\spacedtos\\spacetoreturndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D484AA-F98C-5549-9BD0-91C524122345}|CoworkingSpaceSystem.BLL\\CoworkingSpaceSystem.BLL.csproj|d:\\eng-moh.essam_course\\coworkingspacesystem\\coworkingspacesystem.bll\\mapping\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D484AA-F98C-5549-9BD0-91C524122345}|CoworkingSpaceSystem.BLL\\CoworkingSpaceSystem.BLL.csproj|solutionrelative:coworkingspacesystem.bll\\mapping\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A948FF3-5993-78A0-B632-9ADD2F044893}|CoworkingSpaceSystem.Web\\CoworkingSpaceSystem.Web.csproj|d:\\eng-moh.essam_course\\coworkingspacesystem\\coworkingspacesystem.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A948FF3-5993-78A0-B632-9ADD2F044893}|CoworkingSpaceSystem.Web\\CoworkingSpaceSystem.Web.csproj|solutionrelative:coworkingspacesystem.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D484AA-F98C-5549-9BD0-91C524122345}|CoworkingSpaceSystem.BLL\\CoworkingSpaceSystem.BLL.csproj|d:\\eng-moh.essam_course\\coworkingspacesystem\\coworkingspacesystem.bll\\dtos\\spacedtos\\spacecreateupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D484AA-F98C-5549-9BD0-91C524122345}|CoworkingSpaceSystem.BLL\\CoworkingSpaceSystem.BLL.csproj|solutionrelative:coworkingspacesystem.bll\\dtos\\spacedtos\\spacecreateupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDC5C450-826B-56C4-30BA-535EA3707B8F}|CoworkingSpaceSystem.DAL\\CoworkingSpaceSystem.DAL.csproj|d:\\eng-moh.essam_course\\coworkingspacesystem\\coworkingspacesystem.dal\\repositories\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDC5C450-826B-56C4-30BA-535EA3707B8F}|CoworkingSpaceSystem.DAL\\CoworkingSpaceSystem.DAL.csproj|solutionrelative:coworkingspacesystem.dal\\repositories\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDC5C450-826B-56C4-30BA-535EA3707B8F}|CoworkingSpaceSystem.DAL\\CoworkingSpaceSystem.DAL.csproj|d:\\eng-moh.essam_course\\coworkingspacesystem\\coworkingspacesystem.dal\\repositories\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDC5C450-826B-56C4-30BA-535EA3707B8F}|CoworkingSpaceSystem.DAL\\CoworkingSpaceSystem.DAL.csproj|solutionrelative:coworkingspacesystem.dal\\repositories\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDC5C450-826B-56C4-30BA-535EA3707B8F}|CoworkingSpaceSystem.DAL\\CoworkingSpaceSystem.DAL.csproj|d:\\eng-moh.essam_course\\coworkingspacesystem\\coworkingspacesystem.dal\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDC5C450-826B-56C4-30BA-535EA3707B8F}|CoworkingSpaceSystem.DAL\\CoworkingSpaceSystem.DAL.csproj|solutionrelative:coworkingspacesystem.dal\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A948FF3-5993-78A0-B632-9ADD2F044893}|CoworkingSpaceSystem.Web\\CoworkingSpaceSystem.Web.csproj|d:\\eng-moh.essam_course\\coworkingspacesystem\\coworkingspacesystem.web\\views\\space\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A948FF3-5993-78A0-B632-9ADD2F044893}|CoworkingSpaceSystem.Web\\CoworkingSpaceSystem.Web.csproj|solutionrelative:coworkingspacesystem.web\\views\\space\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A948FF3-5993-78A0-B632-9ADD2F044893}|CoworkingSpaceSystem.Web\\CoworkingSpaceSystem.Web.csproj|d:\\eng-moh.essam_course\\coworkingspacesystem\\coworkingspacesystem.web\\views\\space\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A948FF3-5993-78A0-B632-9ADD2F044893}|CoworkingSpaceSystem.Web\\CoworkingSpaceSystem.Web.csproj|solutionrelative:coworkingspacesystem.web\\views\\space\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A948FF3-5993-78A0-B632-9ADD2F044893}|CoworkingSpaceSystem.Web\\CoworkingSpaceSystem.Web.csproj|d:\\eng-moh.essam_course\\coworkingspacesystem\\coworkingspacesystem.web\\views\\space\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A948FF3-5993-78A0-B632-9ADD2F044893}|CoworkingSpaceSystem.Web\\CoworkingSpaceSystem.Web.csproj|solutionrelative:coworkingspacesystem.web\\views\\space\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A948FF3-5993-78A0-B632-9ADD2F044893}|CoworkingSpaceSystem.Web\\CoworkingSpaceSystem.Web.csproj|d:\\eng-moh.essam_course\\coworkingspacesystem\\coworkingspacesystem.web\\views\\space\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A948FF3-5993-78A0-B632-9ADD2F044893}|CoworkingSpaceSystem.Web\\CoworkingSpaceSystem.Web.csproj|solutionrelative:coworkingspacesystem.web\\views\\space\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A948FF3-5993-78A0-B632-9ADD2F044893}|CoworkingSpaceSystem.Web\\CoworkingSpaceSystem.Web.csproj|d:\\eng-moh.essam_course\\coworkingspacesystem\\coworkingspacesystem.web\\views\\space\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A948FF3-5993-78A0-B632-9ADD2F044893}|CoworkingSpaceSystem.Web\\CoworkingSpaceSystem.Web.csproj|solutionrelative:coworkingspacesystem.web\\views\\space\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A948FF3-5993-78A0-B632-9ADD2F044893}|CoworkingSpaceSystem.Web\\CoworkingSpaceSystem.Web.csproj|d:\\eng-moh.essam_course\\coworkingspacesystem\\coworkingspacesystem.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A948FF3-5993-78A0-B632-9ADD2F044893}|CoworkingSpaceSystem.Web\\CoworkingSpaceSystem.Web.csproj|solutionrelative:coworkingspacesystem.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A948FF3-5993-78A0-B632-9ADD2F044893}|CoworkingSpaceSystem.Web\\CoworkingSpaceSystem.Web.csproj|d:\\eng-moh.essam_course\\coworkingspacesystem\\coworkingspacesystem.web\\viewmodels\\spaceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A948FF3-5993-78A0-B632-9ADD2F044893}|CoworkingSpaceSystem.Web\\CoworkingSpaceSystem.Web.csproj|solutionrelative:coworkingspacesystem.web\\viewmodels\\spaceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDC5C450-826B-56C4-30BA-535EA3707B8F}|CoworkingSpaceSystem.DAL\\CoworkingSpaceSystem.DAL.csproj|d:\\eng-moh.essam_course\\coworkingspacesystem\\coworkingspacesystem.dal\\entities\\space.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDC5C450-826B-56C4-30BA-535EA3707B8F}|CoworkingSpaceSystem.DAL\\CoworkingSpaceSystem.DAL.csproj|solutionrelative:coworkingspacesystem.dal\\entities\\space.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A948FF3-5993-78A0-B632-9ADD2F044893}|CoworkingSpaceSystem.Web\\CoworkingSpaceSystem.Web.csproj|d:\\eng-moh.essam_course\\coworkingspacesystem\\coworkingspacesystem.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1A948FF3-5993-78A0-B632-9ADD2F044893}|CoworkingSpaceSystem.Web\\CoworkingSpaceSystem.Web.csproj|solutionrelative:coworkingspacesystem.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDC5C450-826B-56C4-30BA-535EA3707B8F}|CoworkingSpaceSystem.DAL\\CoworkingSpaceSystem.DAL.csproj|d:\\eng-moh.essam_course\\coworkingspacesystem\\coworkingspacesystem.dal\\migrations\\20260729121203_addpictureurltospace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDC5C450-826B-56C4-30BA-535EA3707B8F}|CoworkingSpaceSystem.DAL\\CoworkingSpaceSystem.DAL.csproj|solutionrelative:coworkingspacesystem.dal\\migrations\\20260729121203_addpictureurltospace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CoworkingSpaceSystem.DAL",
+              "DocumentMoniker": "D:\\Eng-Moh.Essam_Course\\CoworkingSpaceSystem\\CoworkingSpaceSystem.DAL\\CoworkingSpaceSystem.DAL.csproj",
+              "RelativeDocumentMoniker": "CoworkingSpaceSystem.DAL\\CoworkingSpaceSystem.DAL.csproj",
+              "ToolTip": "D:\\Eng-Moh.Essam_Course\\CoworkingSpaceSystem\\CoworkingSpaceSystem.DAL\\CoworkingSpaceSystem.DAL.csproj",
+              "RelativeToolTip": "CoworkingSpaceSystem.DAL\\CoworkingSpaceSystem.DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-10T09:41:48.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IspaceService.cs",
+              "DocumentMoniker": "D:\\Eng-Moh.Essam_Course\\CoworkingSpaceSystem\\CoworkingSpaceSystem.BLL\\Services\\Interfaces\\IspaceService.cs",
+              "RelativeDocumentMoniker": "CoworkingSpaceSystem.BLL\\Services\\Interfaces\\IspaceService.cs",
+              "ToolTip": "D:\\Eng-Moh.Essam_Course\\CoworkingSpaceSystem\\CoworkingSpaceSystem.BLL\\Services\\Interfaces\\IspaceService.cs",
+              "RelativeToolTip": "CoworkingSpaceSystem.BLL\\Services\\Interfaces\\IspaceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T07:18:57.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SpaceService.cs",
+              "DocumentMoniker": "D:\\Eng-Moh.Essam_Course\\CoworkingSpaceSystem\\CoworkingSpaceSystem.BLL\\Services\\Implementaions\\SpaceService.cs",
+              "RelativeDocumentMoniker": "CoworkingSpaceSystem.BLL\\Services\\Implementaions\\SpaceService.cs",
+              "ToolTip": "D:\\Eng-Moh.Essam_Course\\CoworkingSpaceSystem\\CoworkingSpaceSystem.BLL\\Services\\Implementaions\\SpaceService.cs",
+              "RelativeToolTip": "CoworkingSpaceSystem.BLL\\Services\\Implementaions\\SpaceService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwDsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T07:18:56.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\Eng-Moh.Essam_Course\\CoworkingSpaceSystem\\CoworkingSpaceSystem.DAL\\Repositories\\Implementations\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "CoworkingSpaceSystem.DAL\\Repositories\\Implementations\\GenericRepository.cs",
+              "ToolTip": "D:\\Eng-Moh.Essam_Course\\CoworkingSpaceSystem\\CoworkingSpaceSystem.DAL\\Repositories\\Implementations\\GenericRepository.cs",
+              "RelativeToolTip": "CoworkingSpaceSystem.DAL\\Repositories\\Implementations\\GenericRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-25T11:37:30.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDocumentSettings.cs",
+              "DocumentMoniker": "D:\\Eng-Moh.Essam_Course\\CoworkingSpaceSystem\\CoworkingSpaceSystem.BLL\\Helpers\\IDocumentSettings.cs",
+              "RelativeDocumentMoniker": "CoworkingSpaceSystem.BLL\\Helpers\\IDocumentSettings.cs",
+              "ToolTip": "D:\\Eng-Moh.Essam_Course\\CoworkingSpaceSystem\\CoworkingSpaceSystem.BLL\\Helpers\\IDocumentSettings.cs",
+              "RelativeToolTip": "CoworkingSpaceSystem.BLL\\Helpers\\IDocumentSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T12:15:37.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SpaceController.cs",
+              "DocumentMoniker": "D:\\Eng-Moh.Essam_Course\\CoworkingSpaceSystem\\CoworkingSpaceSystem.Web\\Controllers\\SpaceController.cs",
+              "RelativeDocumentMoniker": "CoworkingSpaceSystem.Web\\Controllers\\SpaceController.cs",
+              "ToolTip": "D:\\Eng-Moh.Essam_Course\\CoworkingSpaceSystem\\CoworkingSpaceSystem.Web\\Controllers\\SpaceController.cs",
+              "RelativeToolTip": "CoworkingSpaceSystem.Web\\Controllers\\SpaceController.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAwwE0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T11:29:49.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\Eng-Moh.Essam_Course\\CoworkingSpaceSystem\\CoworkingSpaceSystem.DAL\\Repositories\\Implementations\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "CoworkingSpaceSystem.DAL\\Repositories\\Implementations\\UnitOfWork.cs",
+              "ToolTip": "D:\\Eng-Moh.Essam_Course\\CoworkingSpaceSystem\\CoworkingSpaceSystem.DAL\\Repositories\\Implementations\\UnitOfWork.cs",
+              "RelativeToolTip": "CoworkingSpaceSystem.DAL\\Repositories\\Implementations\\UnitOfWork.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-25T11:58:41.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DocumentSettings.cs",
+              "DocumentMoniker": "D:\\Eng-Moh.Essam_Course\\CoworkingSpaceSystem\\CoworkingSpaceSystem.BLL\\Helpers\\DocumentSettings.cs",
+              "RelativeDocumentMoniker": "CoworkingSpaceSystem.BLL\\Helpers\\DocumentSettings.cs",
+              "ToolTip": "D:\\Eng-Moh.Essam_Course\\CoworkingSpaceSystem\\CoworkingSpaceSystem.BLL\\Helpers\\DocumentSettings.cs",
+              "RelativeToolTip": "CoworkingSpaceSystem.BLL\\Helpers\\DocumentSettings.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T12:21:13.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SpaceToReturnDto.cs",
+              "DocumentMoniker": "D:\\Eng-Moh.Essam_Course\\CoworkingSpaceSystem\\CoworkingSpaceSystem.BLL\\DTOs\\SpaceDtos\\SpaceToReturnDto.cs",
+              "RelativeDocumentMoniker": "CoworkingSpaceSystem.BLL\\DTOs\\SpaceDtos\\SpaceToReturnDto.cs",
+              "ToolTip": "D:\\Eng-Moh.Essam_Course\\CoworkingSpaceSystem\\CoworkingSpaceSystem.BLL\\DTOs\\SpaceDtos\\SpaceToReturnDto.cs",
+              "RelativeToolTip": "CoworkingSpaceSystem.BLL\\DTOs\\SpaceDtos\\SpaceToReturnDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-25T13:16:03.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MappingProfiles.cs",
+              "DocumentMoniker": "D:\\Eng-Moh.Essam_Course\\CoworkingSpaceSystem\\CoworkingSpaceSystem.BLL\\Mapping\\MappingProfiles.cs",
+              "RelativeDocumentMoniker": "CoworkingSpaceSystem.BLL\\Mapping\\MappingProfiles.cs",
+              "ToolTip": "D:\\Eng-Moh.Essam_Course\\CoworkingSpaceSystem\\CoworkingSpaceSystem.BLL\\Mapping\\MappingProfiles.cs",
+              "RelativeToolTip": "CoworkingSpaceSystem.BLL\\Mapping\\MappingProfiles.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwBsAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-26T07:57:12.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Eng-Moh.Essam_Course\\CoworkingSpaceSystem\\CoworkingSpaceSystem.Web\\Program.cs",
+              "RelativeDocumentMoniker": "CoworkingSpaceSystem.Web\\Program.cs",
+              "ToolTip": "D:\\Eng-Moh.Essam_Course\\CoworkingSpaceSystem\\CoworkingSpaceSystem.Web\\Program.cs",
+              "RelativeToolTip": "CoworkingSpaceSystem.Web\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-25T08:58:40.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SpaceCreateUpdateDto.cs",
+              "DocumentMoniker": "D:\\Eng-Moh.Essam_Course\\CoworkingSpaceSystem\\CoworkingSpaceSystem.BLL\\DTOs\\SpaceDtos\\SpaceCreateUpdateDto.cs",
+              "RelativeDocumentMoniker": "CoworkingSpaceSystem.BLL\\DTOs\\SpaceDtos\\SpaceCreateUpdateDto.cs",
+              "ToolTip": "D:\\Eng-Moh.Essam_Course\\CoworkingSpaceSystem\\CoworkingSpaceSystem.BLL\\DTOs\\SpaceDtos\\SpaceCreateUpdateDto.cs",
+              "RelativeToolTip": "CoworkingSpaceSystem.BLL\\DTOs\\SpaceDtos\\SpaceCreateUpdateDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-25T13:28:20.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\Eng-Moh.Essam_Course\\CoworkingSpaceSystem\\CoworkingSpaceSystem.DAL\\Repositories\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "CoworkingSpaceSystem.DAL\\Repositories\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "D:\\Eng-Moh.Essam_Course\\CoworkingSpaceSystem\\CoworkingSpaceSystem.DAL\\Repositories\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "CoworkingSpaceSystem.DAL\\Repositories\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-25T11:51:29.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "D:\\Eng-Moh.Essam_Course\\CoworkingSpaceSystem\\CoworkingSpaceSystem.DAL\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "CoworkingSpaceSystem.DAL\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "D:\\Eng-Moh.Essam_Course\\CoworkingSpaceSystem\\CoworkingSpaceSystem.DAL\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "CoworkingSpaceSystem.DAL\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-25T11:27:29.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Eng-Moh.Essam_Course\\CoworkingSpaceSystem\\CoworkingSpaceSystem.DAL\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CoworkingSpaceSystem.DAL\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Eng-Moh.Essam_Course\\CoworkingSpaceSystem\\CoworkingSpaceSystem.DAL\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CoworkingSpaceSystem.DAL\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-25T08:47:17.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Eng-Moh.Essam_Course\\CoworkingSpaceSystem\\CoworkingSpaceSystem.Web\\Views\\Space\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CoworkingSpaceSystem.Web\\Views\\Space\\Edit.cshtml",
+              "ToolTip": "D:\\Eng-Moh.Essam_Course\\CoworkingSpaceSystem\\CoworkingSpaceSystem.Web\\Views\\Space\\Edit.cshtml",
+              "RelativeToolTip": "CoworkingSpaceSystem.Web\\Views\\Space\\Edit.cshtml",
+              "ViewState": "AgIAACkAAAAAAAAAAAAUwDIAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-03T14:30:40.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Eng-Moh.Essam_Course\\CoworkingSpaceSystem\\CoworkingSpaceSystem.Web\\Views\\Space\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CoworkingSpaceSystem.Web\\Views\\Space\\Delete.cshtml",
+              "ToolTip": "D:\\Eng-Moh.Essam_Course\\CoworkingSpaceSystem\\CoworkingSpaceSystem.Web\\Views\\Space\\Delete.cshtml",
+              "RelativeToolTip": "CoworkingSpaceSystem.Web\\Views\\Space\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-03T14:31:04.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Eng-Moh.Essam_Course\\CoworkingSpaceSystem\\CoworkingSpaceSystem.Web\\Views\\Space\\Details.cshtml",
+              "RelativeDocumentMoniker": "CoworkingSpaceSystem.Web\\Views\\Space\\Details.cshtml",
+              "ToolTip": "D:\\Eng-Moh.Essam_Course\\CoworkingSpaceSystem\\CoworkingSpaceSystem.Web\\Views\\Space\\Details.cshtml",
+              "RelativeToolTip": "CoworkingSpaceSystem.Web\\Views\\Space\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-03T14:27:29.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Eng-Moh.Essam_Course\\CoworkingSpaceSystem\\CoworkingSpaceSystem.Web\\Views\\Space\\Create.cshtml",
+              "RelativeDocumentMoniker": "CoworkingSpaceSystem.Web\\Views\\Space\\Create.cshtml",
+              "ToolTip": "D:\\Eng-Moh.Essam_Course\\CoworkingSpaceSystem\\CoworkingSpaceSystem.Web\\Views\\Space\\Create.cshtml",
+              "RelativeToolTip": "CoworkingSpaceSystem.Web\\Views\\Space\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-03T12:42:13.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Eng-Moh.Essam_Course\\CoworkingSpaceSystem\\CoworkingSpaceSystem.Web\\Views\\Space\\Index.cshtml",
+              "RelativeDocumentMoniker": "CoworkingSpaceSystem.Web\\Views\\Space\\Index.cshtml",
+              "ToolTip": "D:\\Eng-Moh.Essam_Course\\CoworkingSpaceSystem\\CoworkingSpaceSystem.Web\\Views\\Space\\Index.cshtml",
+              "RelativeToolTip": "CoworkingSpaceSystem.Web\\Views\\Space\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-03T12:05:49.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SpaceViewModel.cs",
+              "DocumentMoniker": "D:\\Eng-Moh.Essam_Course\\CoworkingSpaceSystem\\CoworkingSpaceSystem.Web\\ViewModels\\SpaceViewModel.cs",
+              "RelativeDocumentMoniker": "CoworkingSpaceSystem.Web\\ViewModels\\SpaceViewModel.cs",
+              "ToolTip": "D:\\Eng-Moh.Essam_Course\\CoworkingSpaceSystem\\CoworkingSpaceSystem.Web\\ViewModels\\SpaceViewModel.cs",
+              "RelativeToolTip": "CoworkingSpaceSystem.Web\\ViewModels\\SpaceViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T11:29:10.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Eng-Moh.Essam_Course\\CoworkingSpaceSystem\\CoworkingSpaceSystem.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CoworkingSpaceSystem.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Eng-Moh.Essam_Course\\CoworkingSpaceSystem\\CoworkingSpaceSystem.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CoworkingSpaceSystem.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T11:29:48.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20260729121203_AddPictureUrlToSpace.cs",
+              "DocumentMoniker": "D:\\Eng-Moh.Essam_Course\\CoworkingSpaceSystem\\CoworkingSpaceSystem.DAL\\Migrations\\20260729121203_AddPictureUrlToSpace.cs",
+              "RelativeDocumentMoniker": "CoworkingSpaceSystem.DAL\\Migrations\\20260729121203_AddPictureUrlToSpace.cs",
+              "ToolTip": "D:\\Eng-Moh.Essam_Course\\CoworkingSpaceSystem\\CoworkingSpaceSystem.DAL\\Migrations\\20260729121203_AddPictureUrlToSpace.cs",
+              "RelativeToolTip": "CoworkingSpaceSystem.DAL\\Migrations\\20260729121203_AddPictureUrlToSpace.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T12:12:04.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Space.cs",
+              "DocumentMoniker": "D:\\Eng-Moh.Essam_Course\\CoworkingSpaceSystem\\CoworkingSpaceSystem.DAL\\Entities\\Space.cs",
+              "RelativeDocumentMoniker": "CoworkingSpaceSystem.DAL\\Entities\\Space.cs",
+              "ToolTip": "D:\\Eng-Moh.Essam_Course\\CoworkingSpaceSystem\\CoworkingSpaceSystem.DAL\\Entities\\Space.cs",
+              "RelativeToolTip": "CoworkingSpaceSystem.DAL\\Entities\\Space.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T12:06:22.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Eng-Moh.Essam_Course\\CoworkingSpaceSystem\\CoworkingSpaceSystem.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "CoworkingSpaceSystem.Web\\appsettings.json",
+              "ToolTip": "D:\\Eng-Moh.Essam_Course\\CoworkingSpaceSystem\\CoworkingSpaceSystem.Web\\appsettings.json",
+              "RelativeToolTip": "CoworkingSpaceSystem.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-25T08:56:47.17Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

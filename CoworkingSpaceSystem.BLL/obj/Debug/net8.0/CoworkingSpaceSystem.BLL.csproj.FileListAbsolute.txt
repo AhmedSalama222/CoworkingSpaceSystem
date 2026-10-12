@@ -1,0 +1,15 @@
+D:\Eng-Moh.Essam_Course\CoworkingSpaceSystem\CoworkingSpaceSystem.BLL\bin\Debug\net8.0\CoworkingSpaceSystem.BLL.deps.json
+D:\Eng-Moh.Essam_Course\CoworkingSpaceSystem\CoworkingSpaceSystem.BLL\bin\Debug\net8.0\CoworkingSpaceSystem.BLL.dll
+D:\Eng-Moh.Essam_Course\CoworkingSpaceSystem\CoworkingSpaceSystem.BLL\bin\Debug\net8.0\CoworkingSpaceSystem.BLL.pdb
+D:\Eng-Moh.Essam_Course\CoworkingSpaceSystem\CoworkingSpaceSystem.BLL\bin\Debug\net8.0\CoworkingSpaceSystem.DAL.dll
+D:\Eng-Moh.Essam_Course\CoworkingSpaceSystem\CoworkingSpaceSystem.BLL\bin\Debug\net8.0\CoworkingSpaceSystem.DAL.pdb
+D:\Eng-Moh.Essam_Course\CoworkingSpaceSystem\CoworkingSpaceSystem.BLL\obj\Debug\net8.0\CoworkingSpaceSystem.BLL.csproj.AssemblyReference.cache
+D:\Eng-Moh.Essam_Course\CoworkingSpaceSystem\CoworkingSpaceSystem.BLL\obj\Debug\net8.0\CoworkingSpaceSystem.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Eng-Moh.Essam_Course\CoworkingSpaceSystem\CoworkingSpaceSystem.BLL\obj\Debug\net8.0\CoworkingSpaceSystem.BLL.AssemblyInfoInputs.cache
+D:\Eng-Moh.Essam_Course\CoworkingSpaceSystem\CoworkingSpaceSystem.BLL\obj\Debug\net8.0\CoworkingSpaceSystem.BLL.AssemblyInfo.cs
+D:\Eng-Moh.Essam_Course\CoworkingSpaceSystem\CoworkingSpaceSystem.BLL\obj\Debug\net8.0\CoworkingSpaceSystem.BLL.csproj.CoreCompileInputs.cache
+D:\Eng-Moh.Essam_Course\CoworkingSpaceSystem\CoworkingSpaceSystem.BLL\obj\Debug\net8.0\Coworkin.AFC9DC3D.Up2Date
+D:\Eng-Moh.Essam_Course\CoworkingSpaceSystem\CoworkingSpaceSystem.BLL\obj\Debug\net8.0\CoworkingSpaceSystem.BLL.dll
+D:\Eng-Moh.Essam_Course\CoworkingSpaceSystem\CoworkingSpaceSystem.BLL\obj\Debug\net8.0\refint\CoworkingSpaceSystem.BLL.dll
+D:\Eng-Moh.Essam_Course\CoworkingSpaceSystem\CoworkingSpaceSystem.BLL\obj\Debug\net8.0\CoworkingSpaceSystem.BLL.pdb
+D:\Eng-Moh.Essam_Course\CoworkingSpaceSystem\CoworkingSpaceSystem.BLL\obj\Debug\net8.0\ref\CoworkingSpaceSystem.BLL.dll

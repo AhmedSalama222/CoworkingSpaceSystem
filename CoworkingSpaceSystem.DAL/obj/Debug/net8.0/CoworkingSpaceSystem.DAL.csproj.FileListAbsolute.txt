@@ -1,0 +1,14 @@
+D:\Eng-Moh.Essam_Course\CoworkingSpaceSystem\CoworkingSpaceSystem.DAL\bin\Debug\net8.0\CoworkingSpaceSystem.DAL.deps.json
+D:\Eng-Moh.Essam_Course\CoworkingSpaceSystem\CoworkingSpaceSystem.DAL\bin\Debug\net8.0\CoworkingSpaceSystem.DAL.runtimeconfig.json
+D:\Eng-Moh.Essam_Course\CoworkingSpaceSystem\CoworkingSpaceSystem.DAL\bin\Debug\net8.0\CoworkingSpaceSystem.DAL.dll
+D:\Eng-Moh.Essam_Course\CoworkingSpaceSystem\CoworkingSpaceSystem.DAL\bin\Debug\net8.0\CoworkingSpaceSystem.DAL.pdb
+D:\Eng-Moh.Essam_Course\CoworkingSpaceSystem\CoworkingSpaceSystem.DAL\obj\Debug\net8.0\CoworkingSpaceSystem.DAL.csproj.AssemblyReference.cache
+D:\Eng-Moh.Essam_Course\CoworkingSpaceSystem\CoworkingSpaceSystem.DAL\obj\Debug\net8.0\CoworkingSpaceSystem.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Eng-Moh.Essam_Course\CoworkingSpaceSystem\CoworkingSpaceSystem.DAL\obj\Debug\net8.0\CoworkingSpaceSystem.DAL.AssemblyInfoInputs.cache
+D:\Eng-Moh.Essam_Course\CoworkingSpaceSystem\CoworkingSpaceSystem.DAL\obj\Debug\net8.0\CoworkingSpaceSystem.DAL.AssemblyInfo.cs
+D:\Eng-Moh.Essam_Course\CoworkingSpaceSystem\CoworkingSpaceSystem.DAL\obj\Debug\net8.0\CoworkingSpaceSystem.DAL.csproj.CoreCompileInputs.cache
+D:\Eng-Moh.Essam_Course\CoworkingSpaceSystem\CoworkingSpaceSystem.DAL\obj\Debug\net8.0\CoworkingSpaceSystem.DAL.dll
+D:\Eng-Moh.Essam_Course\CoworkingSpaceSystem\CoworkingSpaceSystem.DAL\obj\Debug\net8.0\refint\CoworkingSpaceSystem.DAL.dll
+D:\Eng-Moh.Essam_Course\CoworkingSpaceSystem\CoworkingSpaceSystem.DAL\obj\Debug\net8.0\CoworkingSpaceSystem.DAL.pdb
+D:\Eng-Moh.Essam_Course\CoworkingSpaceSystem\CoworkingSpaceSystem.DAL\obj\Debug\net8.0\CoworkingSpaceSystem.DAL.genruntimeconfig.cache
+D:\Eng-Moh.Essam_Course\CoworkingSpaceSystem\CoworkingSpaceSystem.DAL\obj\Debug\net8.0\ref\CoworkingSpaceSystem.DAL.dll

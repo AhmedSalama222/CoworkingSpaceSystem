@@ -1,0 +1,64 @@
+﻿@model IEnumerable<SpaceToReturnDto>
+
+@{
+    ViewData["Title"] = "إدارة القاعات والمساحات";
+}
+
+<div class="d-flex justify-content-between align-items-center mb-4">
+    <h2>🏢 قائمة القاعات والمساحات المكتبية</h2>
+    <a asp-action="Create" class="btn btn-primary"><i class="bi bi-plus-circle"></i> إضافة قاعة جديدة</a>
+</div>
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success alert-dismissible fade show" role="alert">
+        @TempData["SuccessMessage"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+
+<div class="row">
+    @foreach (var item in Model)
+    {
+        <div class="col-md-4 mb-4">
+            <div class="card h-100 shadow-sm">
+                @if (!string.IsNullOrEmpty(item.PictureUrl))
+                {
+                    <img src="~/images/spaces/@item.PictureUrl" class="card-img-top" alt="@item.Name" style="height: 200px; object-fit: cover;">
+                }
+                else
+                {
+                    <!-- طريقة العرض الصحيحة -->
+                    <img src="~/images/spaces/@item.PictureUrl" class="img-fluid" alt="@item.Name" />
+                }
+                <div class="card-body">
+                    <h5 class="card-title">@item.Name</h5>
+                    <p class="card-text text-muted">@item.Description</p>
+                    <ul class="list-group list-group-flush mb-3">
+                        <li class="list-group-item"><strong>السعر:</strong> @item.PricePerHour ج.م / ساعة</li>
+                        <li class="list-group-item"><strong>السعة:</strong> @item.Capacity فرد</li>
+                        <li class="list-group-item">
+                            <strong>الحالة:</strong>
+                            @if (item.IsAvailable)
+                            {
+                                <span class="badge bg-success">متاحة</span>
+                            }
+                            else
+                            {
+
+                                <span class="badge bg-danger">غير متاحة</span>
+                            }
+                        </li>
+                    </ul>
+                </div>
+                <div class="card-footer bg-white d-flex justify-content-between">
+                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-sm btn-outline-warning">تعديل</a>
+                    <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-sm btn-outline-info">تفاصيل</a>
+                    <form asp-action="Delete" asp-route-id="@item.Id" method="post" onsubmit="return confirm('هل أنت تأكد من حذف هذه القاعة؟');">
+                        <button type="submit" class="btn btn-sm btn-outline-danger">حذف</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    }
+</div>

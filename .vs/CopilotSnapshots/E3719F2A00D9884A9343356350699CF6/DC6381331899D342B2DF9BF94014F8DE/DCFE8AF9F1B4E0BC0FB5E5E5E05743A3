@@ -1,0 +1,18 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using AutoMapper;
+using CoworkingSpaceSystem.BLL.DTOs.SpaceDTOs;
+using CoworkingSpaceSystem.DAL.Entities;
+
+namespace CoworkingSpaceSystem.BLL.Mapping
+{
+    public class MappingProfiles:Profile
+
+    {
+        CreateMap<Space,SpaceToReturnDto>();
+        CreateMap<SpaceCreateUpdateDto,Space>();
+    }
+}
